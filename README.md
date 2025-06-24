@@ -3,7 +3,7 @@
 This project implements a real-time **speaker recognition system** using **Mel-Frequency Cepstral Coefficients (MFCCs)** for speech feature extraction. It includes a custom DSP pipeline and an interactive **Streamlit** web app for visualizing and experimenting with audio signals.
 
 
-🔗 **Try the App Online** → [Click here to launch the app](https://your-streamlit-deployment-link)  
+🔗 **Try the App Online** → [Click here to launch the app](https://mffc-speach-analysis.streamlit.app/)  
 
 ---
 
